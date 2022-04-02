@@ -7,11 +7,11 @@
 .hero{
     width: 100%;
     min-height:100vh;
-    background: linear-gradient(45deg,#a700ff,#4d19db);
+    background: linear-gradient(45deg,#ffffffb4,#ffffff);
     padding-left: 8%;
     padding-right: 8%;
     box-sizing: border-box;
-    color: #fff;
+    color:black;
     position: relative;
     z-index: 1;
     overflow: hidden;
@@ -39,7 +39,7 @@ nav ul li{
 }
 a{
     text-decoration: none;
-    color: #fff;
+    color:black;
 }
 .btn{
     border: 2px solid #fff;
@@ -73,7 +73,7 @@ a{
 
 }
 span{
-    color: yellow;
+    color: rgb(133, 19, 19);
 }
 .col-2 p{
     margin: 10px 0 50px;
